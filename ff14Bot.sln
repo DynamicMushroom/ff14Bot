@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ff14Bot", "ff14Bot.pyproj", "{2840B823-01EB-4C26-AB56-C6EF74ADD5E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2840B823-01EB-4C26-AB56-C6EF74ADD5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2840B823-01EB-4C26-AB56-C6EF74ADD5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C3F073-DB91-4A99-8BD2-E1C91765B7B0}
+	EndGlobalSection
+EndGlobal
